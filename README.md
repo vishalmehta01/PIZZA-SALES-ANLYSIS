@@ -1,5 +1,5 @@
 
-# PIZZA SALES ANALYSIS
+# PIZZA SALES ANALYSIS(power bi + sql)
 We'll use Power BI to analyze pizza sales trends. The goal is to identify key metrics, understand customer preferences, and explore market opportunities to help us make better business decisions.
 # DATA USED
 - <a href="https://github.com/vishalmehta01/projects/blob/main/pizza_sales.csv>">DATASET</a>
