@@ -25,4 +25,8 @@ We'll use Power BI to analyze pizza sales trends. The goal is to identify key me
 - <a href = "https://github.com/vishalmehta01/projects/blob/main/Screenshot%20(563).png">ss1</a>
 - <a href = "https://github.com/vishalmehta01/projects/blob/main/Screenshot%20(564).png">ss2</a>
 - <a href = "https://github.com/vishalmehta01/projects/blob/main/powerbi%20dynamic%20dasboard.mp4">video of dashboard</a>
+-<a href="https://github.com/vishalmehta01/PIZZA-SALES-ANLYSIS/blob/main/Pizza_sales_powerBI_dashboards.pbix">Pizza sales Dashboard</a>
+-<a href="https://github.com/vishalmehta01/PIZZA-SALES-ANLYSIS/blob/main/PIZZA%20SALES%20SQL%20QUERIES%20(p1).docx">pizza sales sql queries</a>
+
+
 
